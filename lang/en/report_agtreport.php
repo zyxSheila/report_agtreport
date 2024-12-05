@@ -22,7 +22,7 @@
 
 $string['pluginname'] = 'Agreement Report';
 
-$string['selectassignment'] = 'Select the assignment';
+$string['selectassignment'] = 'Select an assignment';
 $string['viewresults'] = 'Get the report';
 $string['noassigns'] = 'No assignments in this course.';
 
